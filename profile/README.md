@@ -1,0 +1,3 @@
+- Research for software architecture
+- Developer toolkits for building quality software
+- Modular code and data strucures
